@@ -1,3 +1,3 @@
 #! /bin/bash
 
-node src/pattern.js
+node test/pattern-test.js
